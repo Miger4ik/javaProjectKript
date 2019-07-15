@@ -1,0 +1,4 @@
+#Mon Jul 15 21:02:40 EEST 2019
+base.0=/Users/bogdansava/Desktop/git/javaProjectKript/appCod/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
